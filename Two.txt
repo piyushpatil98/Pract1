@@ -1,0 +1,13 @@
+main()
+{	
+	Hello boy;
+}
+
+outdate()
+{
+	Hello Girl:
+}
+
+
+
+

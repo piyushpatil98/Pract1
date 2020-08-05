@@ -1,0 +1,7 @@
+main()
+{	
+	Hello boy;
+	Hello Girl;
+}
+
+
