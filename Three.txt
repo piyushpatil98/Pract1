@@ -4,4 +4,9 @@ main()
 	Hello Girl?;
 }
 
+pull()
+{
+count;
+}
+
 
