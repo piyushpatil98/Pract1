@@ -1,11 +1,11 @@
 main()
 {	
-	Hello boy;
+	Hello boy!!;
 }
 
 outdate()
 {
-	Hello Girl:
+	Hello Girl!!:
 }
 
 

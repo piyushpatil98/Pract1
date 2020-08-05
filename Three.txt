@@ -1,7 +1,7 @@
 main()
 {	
-	Hello boy;
-	Hello Girl;
+	Hello boy?;
+	Hello Girl?;
 }
 
 
